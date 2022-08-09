@@ -7,6 +7,6 @@ As a part of EECE 490 - Intro to Machine Learning course, we stacked five machin
 - All models were trained and tested separately on the InSDN dataset. A confusion matrix and classification report were created to evaluate the outcomes.
 - All models were stacked into one "smart detection stacking model" using a stacking classifier with accuracy and f1-score higher than the aforementioned models.
 
-# We used: 
+## We used: 
 
 Python, scikit-learn, pandas, numpy, matplotlib
